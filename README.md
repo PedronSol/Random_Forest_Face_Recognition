@@ -26,9 +26,19 @@ Este projeto aborda o problema de biometria facial utilizando técnica de reduç
 
 1. Clone este repositório:
 ```bash
-git clone [https://github.com/seu-usuario/face-recognition-eigenfaces.git](https://github.com/seu-usuario/face-recognition-eigenfaces.git)
-cd face-recognition-eigenfaces
-2. Instale as dependências
+git clone https://github.com/PedronSol/Random_Forest_Face_Recognition.git
+
+cd Ranfom_Forest_Face_Recognition
+```
+
+2. Inicialize o Ambiente Virtual
+```bash
+python3 -m venv .venv
+
+source .venv/bin/activate # No Windows: source venv\Scripts\activate
+```
+
+3. Instale as dependências
 ```bash
 pip install -r requirements.txt
 ```
