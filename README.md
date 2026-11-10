@@ -25,9 +25,9 @@ Este projeto aborda o problema de biometria facial utilizando técnica de reduç
 ## Como Executar
 
 1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/face-recognition-eigenfaces.git](https://github.com/seu-usuario/face-recognition-eigenfaces.git)
-   cd face-recognition-eigenfaces
+```bash
+git clone [https://github.com/seu-usuario/face-recognition-eigenfaces.git](https://github.com/seu-usuario/face-recognition-eigenfaces.git)
+cd face-recognition-eigenfaces
 2. Instale as dependências
 ```bash
 pip install -r requirements.txt
